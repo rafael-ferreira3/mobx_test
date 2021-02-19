@@ -1,4 +1,4 @@
-# mobx_test
+# Mobx Test
 
 A new Flutter application.
 
